@@ -96,7 +96,7 @@ FFmpeg is required for operations such as:
 * Processing downloaded media
 
 Make sure `ffmpeg` is available in your system PATH, or place the FFmpeg executable where your system can access it.
-
+(it is already bundled with script in "Releases" Section, so you don't need to do any of this if you Installed it from there)
 You can verify the installation with:
 
 ```bash
