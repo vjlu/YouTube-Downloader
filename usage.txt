@@ -1,0 +1,7 @@
+https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
+install this extension, open YT, click on extension, export cookies(the upper left one) to the same folder as the script
+
+run using py downloader.py
+pastr url
+chose format
+done
