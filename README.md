@@ -378,9 +378,7 @@ It helps the project get discovered and motivates further development.
 
 ## 📜 License
 
-Choose a license that matches how you want others to use and redistribute your project.
-
-For example, you can use the **MIT License** if you want a permissive open-source license.
+MIT License
 
 ---
 
