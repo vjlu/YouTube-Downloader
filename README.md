@@ -308,23 +308,6 @@ Only download content that you have the right or permission to download.
 
 Your `cookies.txt` may contain authentication/session information.
 
-**DO NOT:**
-
-```bash
-git add cookies.txt
-```
-
-Instead, add it to `.gitignore`:
-
-```gitignore
-cookies.txt
-```
-
-Before pushing your repository, make sure the file is not tracked:
-
-```bash
-git status
-```
 
 ---
 
