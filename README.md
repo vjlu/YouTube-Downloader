@@ -143,18 +143,6 @@ youtube-downloader/
 └── ...
 ```
 
-> ⚠️ **Never commit your `cookies.txt` file to GitHub.**
->
-> Browser cookies can contain sensitive authentication information. Add `cookies.txt` to `.gitignore`.
-
-Example `.gitignore`:
-
-```gitignore
-cookies.txt
-__pycache__/
-*.pyc
-downloads/
-```
 
 ---
 
